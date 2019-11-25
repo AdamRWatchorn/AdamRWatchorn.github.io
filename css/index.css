@@ -1,0 +1,27 @@
+p {
+   padding-left: 10%;
+   padding-right: 10%;
+}
+
+.indent {
+   text-indent: 30px;
+}
+
+#intro {
+    height: 100vh;
+}
+
+#filler {
+    height: 110vh;
+}
+
+#left {
+   float: left;
+   width: 100%;
+   padding-bottom: 2%;
+}
+
+section {
+   padding-top: 5%;
+   padding-bottom: 5%;
+}

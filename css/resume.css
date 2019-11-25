@@ -1,0 +1,19 @@
+#resume {
+   text-align: left;
+   position: relative;
+   padding-top: 5%;
+}
+
+#filedesc {
+   display: inline-block;
+}
+
+p {
+   text-align: center;
+   text-decoration: underline;
+   padding-top: 5%;
+}
+
+img {
+   width: 70%;
+}

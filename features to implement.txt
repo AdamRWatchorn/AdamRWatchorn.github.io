@@ -1,0 +1,13 @@
+- make writeup with screencaps and code segments
+- consider hosting on byethost if free
+
+
+RESOURCES
+https://www.w3schools.com/css/css_pseudo_classes.asp
+https://getbootstrap.com/docs/4.3/components/navbar/
+(transitions: https://www.w3schools.com/cssref/css3_pr_transition.asp)
+(alternate way of shrink on scroll: https://www.w3schools.com/howto/howto_js_shrink_header_scroll.asp)
+(sticky header: https://www.w3schools.com/howto/howto_js_sticky_header.asp)
+https://www.w3schools.com/bootstrap4/bootstrap_carousel.asp
+
+Current Extras: Font Awesome, Bootstrap4, custom javascript, carousel
