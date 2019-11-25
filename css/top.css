@@ -43,3 +43,7 @@ nav {
 .opaque {
    opacity: 1;
 }
+
+body {
+   font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+}
